@@ -1,6 +1,6 @@
 # LC-learning
 
-卡鲁 leetcode 刷题，学习互助。希望大家都能找个好工作。
+leetcode 刷题，学习互助。希望大家都能找个好工作。
 
 [![](https://img.shields.io/badge/language-c++-red.svg)](https://yuening.github.io/)
 [![](https://img.shields.io/badge/language-python3-green.svg)](https://yuening.github.io/)
