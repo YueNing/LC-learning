@@ -1,0 +1,3 @@
+[submodule "LeetCodeAnimation"]
+	path = LeetCodeAnimation
+	url = https://github.com/MisterBooo/LeetCodeAnimation.git
