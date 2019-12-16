@@ -1,6 +1,7 @@
 # LC-learning
 
 leetcode 刷题，学习互助。希望大家都能找个好工作。
+不局限于leetcode，包含不同领域算法讨论和学习。
 
 [![](https://img.shields.io/badge/language-c++-red.svg)](https://yuening.github.io/)
 [![](https://img.shields.io/badge/language-python3-green.svg)](https://yuening.github.io/)
