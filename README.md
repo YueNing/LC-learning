@@ -24,3 +24,5 @@ leetcode 刷题，学习互助。希望大家都能找个好工作。
 - [QQ讨论群](http://qr.topscan.com/api.php?text=https://qm.qq.com/cgi-bin/qm/qr?k=jd777vFuOUTyRyMJy_CZgEYv28w2JD3v&authKey=KZvWFmS5ToW7JqGmEbEYGHcZf08Tj047UcqUMiGUEn4zHLWCnk7osfVJy6dHdytS)
 
 >仓库的维护和发展需要共同努力，希望对大家的学习有所助益，欢迎补充添加，共同进步-naodongbanana。
+
+>如果需要订阅邮件列表，请联系<a href="mailto:n1085633848@outlook.com">naodongbana: n1085633848@outlook.com</a>)，暂时不允许来宾发送邮件。
