@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.loli.net/2019/12/30/NmgKvfBLFa7PIRy.jpg"/>
 </p>
+
 # LC-learning
 
 leetcode 刷题，学习互助。希望大家都能找个好工作。
