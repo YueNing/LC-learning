@@ -5,11 +5,8 @@ class Solution(object):
         :rtype: int
         """
         pre = 0
-        cur = 1
-        while cur in range(len(nums)):
-            if nums[cur] == nums[pre]:
-                cur = cur + 1
-            else:
+        for cur in range(len(nums)):
+            if nums[pre] != nums[cur]:
                 pre = pre + 1
                 nums[pre] = nums[cur]
                 cur = cur + 1
