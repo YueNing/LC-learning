@@ -53,5 +53,6 @@ int main() {
     ListNode m2(0, &n2);
     ListNode l2(1, &m2);
     s.addTwoNumbers(&l1, &l2);
+    getchar();
     return 0;
 }
